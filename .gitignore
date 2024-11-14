@@ -1,0 +1,36 @@
+# 编译生成的二进制文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go 编译缓存
+*.a
+*.o
+*.obj
+*.swp
+*.swo
+*.class
+
+# 临时文件
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# 用户设置和 IDE 相关文件
+.idea/
+*.iml
+*.sublime-workspace
+*.DS_Store
+
+# 测试覆盖率报告
+coverage/
+
+# 其他可能不需要的文件和目录
+*.log
+*.md
+*.txt
+*.png
+*.jpg
