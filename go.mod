@@ -1,4 +1,4 @@
-module dx-utils
+module github.com/diaoxiong/dx-utils
 
 go 1.21.4
 
